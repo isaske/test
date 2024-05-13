@@ -1,0 +1,16 @@
+room_id_restaurar_Save=65879452025531dd793da4b1
+room_idSave=65879452025531dd793da4b1
+anuncioAuto=stop
+welcomeTextSave=@{user.username} oa
+autoTipSave=
+autoTipSegSave=10
+cantidadTipSave=1
+tiempoTipSave=1
+tipLimitUserTipSave=1
+tipMinRequeridoSave=3
+vipStateSave=True
+carcelPosSave=[12.5, 0.0, 5.5]
+adminsListSave=['XhernanX', 'xMissJeanx']
+vipListSave={'esclavo3': 0}
+modListSave=['esclavo3', 'Pan0_0']
+banListSave=['Adriana916']
